@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: seagreen;
+}
+
+li {
+  list-style-type: none;
+}
+
+li a {
+  text-decoration-line: none;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
+
+nav {
+  background-color: lightblue;
+  padding: 20px 50px;
+}
+
+
+img {
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+footer {
+
+}
