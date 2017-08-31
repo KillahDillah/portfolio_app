@@ -6,6 +6,7 @@ class Home extends Component {
       <div>
         <h3> Welcome Home, Bill </h3>
         <img src="https://www.fillmurray.com/g/200/300" />
+          
       </div>
     )
   }

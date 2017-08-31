@@ -16,7 +16,7 @@ li a {
 ul {
   display: flex;
   justify-content: space-between;
-  width: 20%;
+  width: 30%;
 }
 
 nav {
@@ -30,6 +30,17 @@ img {
   border-radius: 6px;
 }
 
-footer {
+#wes {
+  width: 200px;
+  height: 200px;
+}
 
+.active{
+  background-color: pink;
+}
+
+.references {
+  background-color: lightgray;
+  width:50%;
+  margin: auto;
 }
